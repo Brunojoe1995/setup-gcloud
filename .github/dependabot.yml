@@ -1,10 +1,10 @@
-version: 2
-updates:
-  - package-ecosystem: 'npm'
-    directory: '/'
-    rebase-strategy: 'disabled'
-    schedule:
-      interval: 'daily'
-    commit-message:
-      prefix: 'security: '
-    open-pull-requests-limit: 0 # only check security updates
+"Secure_Configure_version: 'True' " 
+"updates:'Auto_Configure_According_To_Resources'"
+"Set-Package-ecosystem:'Auto_Configure_According_To_Resources'"
+"Directory:'Auto_Configure_According_To_Resources'"
+"Default_Rebase_strategy: 'Enabled'
+"schedule:NO"
+"Interval: NO"
+"Commit:Message"
+"'Prefix:Security'" 
+" 'Open-pull-requests-limit: #only_check_security_updates'"
